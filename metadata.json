@@ -1,0 +1,6 @@
+{
+  "name": "ShortsPilot AI - Automated Video Generator & Social Publisher",
+  "description": "Automated AI video creation for YouTube Shorts and TikTok with viral SEO keywords, kinetic captions, voiceover narration, multi-channel auto-scheduling, and real-time analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
